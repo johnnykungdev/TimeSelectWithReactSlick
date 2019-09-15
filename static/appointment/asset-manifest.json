@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6a746c43.chunk.css",
+    "main.js": "./static/js/main.1c244069.chunk.js",
+    "main.js.map": "./static/js/main.1c244069.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.65aa24f7.js",
+    "runtime~main.js.map": "./static/js/runtime~main.65aa24f7.js.map",
+    "static/css/2.c27d7449.chunk.css": "./static/css/2.c27d7449.chunk.css",
+    "static/js/2.f7e9a3b9.chunk.js": "./static/js/2.f7e9a3b9.chunk.js",
+    "static/js/2.f7e9a3b9.chunk.js.map": "./static/js/2.f7e9a3b9.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.0c68b75ea728a9636d19e30df068f575.js": "./precache-manifest.0c68b75ea728a9636d19e30df068f575.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.c27d7449.chunk.css.map": "./static/css/2.c27d7449.chunk.css.map",
+    "static/css/main.6a746c43.chunk.css.map": "./static/css/main.6a746c43.chunk.css.map",
+    "static/media/ToLeftArr.svg": "./static/media/ToLeftArr.6c9efe0c.svg",
+    "static/media/ToRightArr.svg": "./static/media/ToRightArr.a0e061b5.svg",
+    "static/media/slick-theme.css": "./static/media/slick.f97e3bbf.svg"
+  }
+}
